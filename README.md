@@ -14,3 +14,7 @@ Repository to be reused for any project requiring well structured & partitioned 
 - **tools Folder**: Convenience directory for your use. Should contain scripts to automate tasks in the project, for example, build scripts, rename scripts. Usually contains .sh, .cmd files for example.
 - **.vscode Folder**: Config dir for local VS Code IDE
 - **.github Folder**: Config dir for Github & Gitlab CI-CD
+
+## Run
+
+`python -m template`
